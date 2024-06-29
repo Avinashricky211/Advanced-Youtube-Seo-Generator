@@ -1,0 +1,4 @@
+requests
+nltk
+textblob
+spacy
